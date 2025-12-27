@@ -1,0 +1,13 @@
+{
+  "name": "smartfarming-websocket",
+  "version": "1.0.0",
+  "description": "WebSocket server Smart Farming 3-Tier",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "express": "^4.19.2"
+  }
+}
